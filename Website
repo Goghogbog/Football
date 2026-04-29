@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dylan Peake - Player Profile</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    padding:0;
+}
+
+.container {
+    max-width:800px;
+    margin:40px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+h1 {
+    margin-bottom:5px;
+}
+
+.badge {
+    display:inline-block;
+    padding:5px 10px;
+    background:#1e88e5;
+    color:white;
+    border-radius:5px;
+    font-size:12px;
+}
+
+.section {
+    margin-top:20px;
+}
+
+h2 {
+    border-bottom:1px solid #ddd;
+    padding-bottom:5px;
+}
+
+ul {
+    line-height:1.6;
+}
+
+.rating {
+    font-size:18px;
+    color:#f5a623;
+}
+
+.small {
+    color:#555;
+    font-size:14px;
+}
+
+img {
+    width:100%;
+    border-radius:10px;
+    margin-top:10px;
+}
+
+.offer {
+    background:#e8f5e9;
+    padding:10px;
+    border-radius:8px;
+    margin-top:10px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Dylan Peake</h1>
+
+<div class="badge">
+Class of 2030 | River Bluff High School (SC)
+</div>
+
+<p class="rating">★★★☆☆ 3-Star Developmental Prospect</p>
+
+<div class="section">
+<h2>School & Facilities</h2>
+<p class="small">River Bluff High School Football Program</p>
+
+<img src="https://via.placeholder.com/800x300?text=River+Bluff+Stadium" alt="Stadium">
+
+<img src="https://via.placeholder.com/400x200?text=River+Bluff+Gators+Logo" alt="Logo">
+</div>
+
+<div class="section offer">
+<h2>Recruiting Status</h2>
+<p><strong>Offer:</strong> Newberry College (Football)</p>
+<p class="small">Early collegiate interest as development continues.</p>
+</div>
+
+<div class="section">
+<h2>Physical Profile</h2>
+<ul>
+<li>Height: 6’1” (projection)</li>
+<li>Weight: 240 lbs (projection)</li>
+<li>Position: Offensive Line (OL)</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Player Summary</h2>
+<p class="small">
+Developing offensive lineman with physical traits and improving technique.
+</p>
+</div>
+
+<div class="section">
+<h2>Highlights</h2>
+<ul>
+<li>Strong run blocking</li>
+<li>High motor player</li>
+<li>Improving pass protection</li>
+<li>Good leverage and effort</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Scouting Report</h2>
+
+<h3>Strengths</h3>
+<ul>
+<li>Physical blocker</li>
+<li>High effort</li>
+<li>Coachable</li>
+</ul>
+
+<h3>Areas to Improve</h3>
+<ul>
+<li>Strength gain</li>
+<li>Hand placement</li>
+<li>Foot speed</li>
+</ul>
+
+</div>
+
+</div>
+
+</body>
+</html>
